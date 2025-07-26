@@ -10,7 +10,7 @@ Se desarrolla un análisis y forecasting de cancelaciones/reclamos semanales en 
 ## ¿Cómo ejecutar la notebook?
 
 1. **Abrir la notebook directamente en [Google Colab]** Con el enlace de arriba.
-2. **Descargar archivo `kaggle.json`** desde [tu cuenta de Kaggle](https://www.kaggle.com/settings/account), para conectar el dataset mediante API.
+2. **Descargar archivo `kaggle.json`** desde [tu cuenta de Kaggle](https://www.kaggle.com/settings/account) para descargar el dataset mediante la API de kaggle dentro de la notebook.
 3. **Pegar el contenido del kaggle.json en la celda indicada** al principio de la notebook (NO se recomienda subirlo a GitHub ni compartirlo).
 4. **Correr todas las celdas en orden (Ctrl+F9 o Runtime > Run all).
 
