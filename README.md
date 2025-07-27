@@ -1,6 +1,6 @@
 # TP Deep Learning ITBA 2025 - Forecast de Cancelaciones/Reclamos con Olist
 
-[![Abrir en Colab](https://colab.research.google.com/drive/1q2o-xaugY2Znu7RutGRauUpd2uKOWfJI#scrollTo=ulHibTxWTmjX)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cgard98/tp-deep-learning-olist/blob/main/TP_Forecast_Olist.ipynb)
 
 Este repositorio contiene el trabajo práctico realizado para la materia Deep Learning (ITBA, 2025).  
 Se desarrolla un análisis y forecasting de cancelaciones/reclamos semanales en e-commerce usando el dataset público de Olist, aplicando un modelo Transformer y Prophet, incluyendo el uso de variables exógenas de eventos comerciales y festivos.
